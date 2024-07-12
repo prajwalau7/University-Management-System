@@ -1,0 +1,16 @@
+{
+  "name": "university-management-system",
+  "version": "1.0.0",
+  "description": "University Management System",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "UTL Tech..",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "nodemon": "^3.1.4"
+  }
+}
